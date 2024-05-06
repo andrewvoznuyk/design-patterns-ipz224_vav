@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\obj\Debug\net8.0\ShopClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\obj\Debug\net8.0\ShopClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\obj\Debug\net8.0\ShopClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\obj\Debug\net8.0\ShopClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\bin\Debug\net8.0\ShopClassLibrary.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\bin\Debug\net8.0\ShopClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\bin\Debug\net8.0\ShopClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\obj\Debug\net8.0\ShopClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\obj\Debug\net8.0\refint\ShopClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\obj\Debug\net8.0\ShopClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\ShopClassLibrary\ShopClassLibrary\obj\Debug\net8.0\ref\ShopClassLibrary.dll

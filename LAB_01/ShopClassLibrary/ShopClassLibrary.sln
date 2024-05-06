@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopClassLibrary", "ShopClassLibrary\ShopClassLibrary.csproj", "{A07851A6-AF97-479A-8E9D-2ED2F5668E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mall", "Mall\Mall.csproj", "{CABF5783-54B0-413B-B51C-03B055F7895F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A07851A6-AF97-479A-8E9D-2ED2F5668E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07851A6-AF97-479A-8E9D-2ED2F5668E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07851A6-AF97-479A-8E9D-2ED2F5668E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07851A6-AF97-479A-8E9D-2ED2F5668E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABF5783-54B0-413B-B51C-03B055F7895F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABF5783-54B0-413B-B51C-03B055F7895F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABF5783-54B0-413B-B51C-03B055F7895F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABF5783-54B0-413B-B51C-03B055F7895F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BAA7677-17F7-4799-A783-8AA3477CBD0B}
+	EndGlobalSection
+EndGlobal
