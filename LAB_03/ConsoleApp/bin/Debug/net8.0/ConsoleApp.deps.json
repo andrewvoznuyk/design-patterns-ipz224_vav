@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Adapter": "1.0.0",
+          "Bridge": "1.0.0",
+          "Composite": "1.0.0",
+          "Decorator": "1.0.0",
+          "Lightweight": "1.0.0",
+          "Proxy": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "Adapter/1.0.0": {
+        "runtime": {
+          "Adapter.dll": {}
+        }
+      },
+      "Bridge/1.0.0": {
+        "runtime": {
+          "Bridge.dll": {}
+        }
+      },
+      "Composite/1.0.0": {
+        "runtime": {
+          "Composite.dll": {}
+        }
+      },
+      "Decorator/1.0.0": {
+        "runtime": {
+          "Decorator.dll": {}
+        }
+      },
+      "Lightweight/1.0.0": {
+        "dependencies": {
+          "Composite": "1.0.0"
+        },
+        "runtime": {
+          "Lightweight.dll": {}
+        }
+      },
+      "Proxy/1.0.0": {
+        "runtime": {
+          "Proxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bridge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Composite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Decorator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lightweight/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Proxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

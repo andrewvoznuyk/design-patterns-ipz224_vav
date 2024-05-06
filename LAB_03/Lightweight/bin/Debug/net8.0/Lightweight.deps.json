@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lightweight/1.0.0": {
+        "dependencies": {
+          "Composite": "1.0.0"
+        },
+        "runtime": {
+          "Lightweight.dll": {}
+        }
+      },
+      "Composite/1.0.0": {
+        "runtime": {
+          "Composite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lightweight/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Composite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

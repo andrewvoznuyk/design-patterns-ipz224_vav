@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\bin\Debug\net8.0\Lightweight.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\bin\Debug\net8.0\Lightweight.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\bin\Debug\net8.0\Lightweight.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\bin\Debug\net8.0\Composite.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\bin\Debug\net8.0\Composite.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\Lightweight.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\Lightweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\Lightweight.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\Lightweight.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\Lightweight.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\Lightweight.csproj.CopyComplete
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\Lightweight.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\refint\Lightweight.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\Lightweight.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Lightweight\obj\Debug\net8.0\ref\Lightweight.dll

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\bin\Debug\net8.0\Decorator.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\bin\Debug\net8.0\Decorator.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\bin\Debug\net8.0\Decorator.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\obj\Debug\net8.0\Decorator.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\obj\Debug\net8.0\Decorator.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_03\Decorator\obj\Debug\net8.0\ref\Decorator.dll
