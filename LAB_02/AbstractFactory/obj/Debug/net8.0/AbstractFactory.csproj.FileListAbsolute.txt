@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_02\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
