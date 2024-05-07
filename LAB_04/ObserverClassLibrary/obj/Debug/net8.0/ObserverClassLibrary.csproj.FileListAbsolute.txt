@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\bin\Debug\net8.0\ObserverClassLibrary.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\bin\Debug\net8.0\ObserverClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\bin\Debug\net8.0\ObserverClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\obj\Debug\net8.0\ObserverClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\obj\Debug\net8.0\ObserverClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\obj\Debug\net8.0\ObserverClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\obj\Debug\net8.0\ObserverClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\obj\Debug\net8.0\ObserverClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\obj\Debug\net8.0\refint\ObserverClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\obj\Debug\net8.0\ObserverClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\ObserverClassLibrary\obj\Debug\net8.0\ref\ObserverClassLibrary.dll

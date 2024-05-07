@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\bin\Debug\net8.0\MementoClassLibrary.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\bin\Debug\net8.0\MementoClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\bin\Debug\net8.0\MementoClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\obj\Debug\net8.0\MementoClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\obj\Debug\net8.0\MementoClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\obj\Debug\net8.0\MementoClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\obj\Debug\net8.0\MementoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\obj\Debug\net8.0\MementoClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\obj\Debug\net8.0\refint\MementoClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\obj\Debug\net8.0\MementoClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\MementoClassLibrary\obj\Debug\net8.0\ref\MementoClassLibrary.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirTrafficControlLibrary", "AirTrafficControlLibrary\AirTrafficControlLibrary.csproj", "{6808F9B4-D071-45A3-807B-08B21F886C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoRClassLibrary", "CoRClassLibrary\CoRClassLibrary.csproj", "{991DD44F-F600-4CF0-8641-4E491B758EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoClassLibrary", "MementoClassLibrary\MementoClassLibrary.csproj", "{2ECA128A-75DD-4BDD-B2B1-3999F1C4002E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverClassLibrary", "ObserverClassLibrary\ObserverClassLibrary.csproj", "{4FA41F60-1D5F-4067-BAB9-7225C352333F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyClassLibrary", "StrategyClassLibrary\StrategyClassLibrary.csproj", "{C94B968E-0826-4C5E-8298-4CB8530D7CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{A3C8FD02-25E4-4BB9-9D23-315E0A35B6D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6808F9B4-D071-45A3-807B-08B21F886C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6808F9B4-D071-45A3-807B-08B21F886C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6808F9B4-D071-45A3-807B-08B21F886C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6808F9B4-D071-45A3-807B-08B21F886C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991DD44F-F600-4CF0-8641-4E491B758EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991DD44F-F600-4CF0-8641-4E491B758EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991DD44F-F600-4CF0-8641-4E491B758EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991DD44F-F600-4CF0-8641-4E491B758EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ECA128A-75DD-4BDD-B2B1-3999F1C4002E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECA128A-75DD-4BDD-B2B1-3999F1C4002E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECA128A-75DD-4BDD-B2B1-3999F1C4002E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECA128A-75DD-4BDD-B2B1-3999F1C4002E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA41F60-1D5F-4067-BAB9-7225C352333F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA41F60-1D5F-4067-BAB9-7225C352333F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA41F60-1D5F-4067-BAB9-7225C352333F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA41F60-1D5F-4067-BAB9-7225C352333F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94B968E-0826-4C5E-8298-4CB8530D7CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94B968E-0826-4C5E-8298-4CB8530D7CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94B968E-0826-4C5E-8298-4CB8530D7CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94B968E-0826-4C5E-8298-4CB8530D7CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C8FD02-25E4-4BB9-9D23-315E0A35B6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C8FD02-25E4-4BB9-9D23-315E0A35B6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C8FD02-25E4-4BB9-9D23-315E0A35B6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C8FD02-25E4-4BB9-9D23-315E0A35B6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7032763-7C25-4461-9A5A-0FD27CACE4B2}
+	EndGlobalSection
+EndGlobal

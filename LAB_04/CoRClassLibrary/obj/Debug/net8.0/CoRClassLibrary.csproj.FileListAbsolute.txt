@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\bin\Debug\net8.0\CoRClassLibrary.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\bin\Debug\net8.0\CoRClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\bin\Debug\net8.0\CoRClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\obj\Debug\net8.0\CoRClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\obj\Debug\net8.0\CoRClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\obj\Debug\net8.0\CoRClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\obj\Debug\net8.0\CoRClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\obj\Debug\net8.0\CoRClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\obj\Debug\net8.0\refint\CoRClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\obj\Debug\net8.0\CoRClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\CoRClassLibrary\obj\Debug\net8.0\ref\CoRClassLibrary.dll

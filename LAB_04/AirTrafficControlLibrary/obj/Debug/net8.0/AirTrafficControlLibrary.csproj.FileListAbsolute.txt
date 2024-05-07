@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\bin\Debug\net8.0\AirTrafficControlLibrary.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\bin\Debug\net8.0\AirTrafficControlLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\bin\Debug\net8.0\AirTrafficControlLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\obj\Debug\net8.0\AirTrafficControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\obj\Debug\net8.0\AirTrafficControlLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\obj\Debug\net8.0\AirTrafficControlLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\obj\Debug\net8.0\AirTrafficControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\obj\Debug\net8.0\AirTrafficControlLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\obj\Debug\net8.0\refint\AirTrafficControlLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\obj\Debug\net8.0\AirTrafficControlLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\AirTrafficControlLibrary\obj\Debug\net8.0\ref\AirTrafficControlLibrary.dll

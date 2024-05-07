@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\bin\Debug\net8.0\StrategyClassLibrary.deps.json
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\bin\Debug\net8.0\StrategyClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\bin\Debug\net8.0\StrategyClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\obj\Debug\net8.0\StrategyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\obj\Debug\net8.0\StrategyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\obj\Debug\net8.0\StrategyClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\obj\Debug\net8.0\StrategyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\obj\Debug\net8.0\StrategyClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\obj\Debug\net8.0\refint\StrategyClassLibrary.dll
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\obj\Debug\net8.0\StrategyClassLibrary.pdb
+C:\Users\user\Desktop\LAB_Andriy Vozniuk\LAB_04\StrategyClassLibrary\obj\Debug\net8.0\ref\StrategyClassLibrary.dll
